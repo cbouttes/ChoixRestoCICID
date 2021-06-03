@@ -1,2 +1,2 @@
 # ChoixRestoCICID
-projet resto
+repo for cicd on aws
